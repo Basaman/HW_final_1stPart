@@ -11,6 +11,7 @@
 int elementLen = 3;
 string[] array = { "1234", "1567", "-2", "computer science" };
 int size = CountElements(array);
+string[] newArray = GetNewArray(array, size);
 
 int CountElements(string[] array)
 {
@@ -20,4 +21,20 @@ int CountElements(string[] array)
         if (array[i].Length <= elementLen) CountElement++;
     }
     return CountElement;
+}
+
+string[] GetNewArray(string[] array, int size)
+{
+    int j = 0;
+    string[] result = new string[size];
+
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= elementLen)
+        {
+            result[j] = array[i];
+            j++;
+        }
+    }
+    return result;
 }
