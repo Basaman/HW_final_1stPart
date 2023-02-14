@@ -13,6 +13,9 @@ string[] array = { "1234", "1567", "-2", "computer science" };
 int size = CountElements(array);
 string[] newArray = GetNewArray(array, size);
 
+Console.Write($"[{String.Join(", ", array)}] -> ");
+Console.WriteLine($"[{String.Join(", ", newArray)}]");
+
 int CountElements(string[] array)
 {
     int CountElement = 0;
