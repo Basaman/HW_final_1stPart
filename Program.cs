@@ -7,3 +7,17 @@
 //[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 //[“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 //[“Russia”, “Denmark”, “Kazan”] → []
+
+int elementLen = 3;
+string[] array = { "1234", "1567", "-2", "computer science" };
+int size = CountElements(array);
+
+int CountElements(string[] array)
+{
+    int CountElement = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= elementLen) CountElement++;
+    }
+    return CountElement;
+}
