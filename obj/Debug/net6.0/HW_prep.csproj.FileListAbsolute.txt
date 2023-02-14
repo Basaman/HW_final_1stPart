@@ -1,0 +1,15 @@
+D:\GB\HW_prep\bin\Debug\net6.0\HW_prep.exe
+D:\GB\HW_prep\bin\Debug\net6.0\HW_prep.deps.json
+D:\GB\HW_prep\bin\Debug\net6.0\HW_prep.runtimeconfig.json
+D:\GB\HW_prep\bin\Debug\net6.0\HW_prep.dll
+D:\GB\HW_prep\bin\Debug\net6.0\HW_prep.pdb
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.csproj.AssemblyReference.cache
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.AssemblyInfoInputs.cache
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.AssemblyInfo.cs
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.csproj.CoreCompileInputs.cache
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.dll
+D:\GB\HW_prep\obj\Debug\net6.0\refint\HW_prep.dll
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.pdb
+D:\GB\HW_prep\obj\Debug\net6.0\HW_prep.genruntimeconfig.cache
+D:\GB\HW_prep\obj\Debug\net6.0\ref\HW_prep.dll
